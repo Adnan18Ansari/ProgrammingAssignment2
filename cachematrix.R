@@ -51,7 +51,7 @@ cacheSolve <- function(x, ...) {
             return(m)
      }
 
-    
+    ## noice
     data <- x$get()
 
     
